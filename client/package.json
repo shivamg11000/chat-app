@@ -1,0 +1,19 @@
+{
+  "name": "chat_app_clientside",
+  "version": "1.0.0",
+  "description": "frontend part of real time chat app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "frontend"
+  ],
+  "author": "Shivam Gupta",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}

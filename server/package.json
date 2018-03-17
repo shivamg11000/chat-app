@@ -1,0 +1,22 @@
+{
+  "name": "chat_app_backend",
+  "version": "1.0.0",
+  "description": "a server for chat app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chat",
+    "app",
+    "socket.io",
+    "realtime"
+  ],
+  "author": "Shivam Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.0.10",
+    "socket.io": "^2.0.4"
+  }
+}
